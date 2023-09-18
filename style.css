@@ -135,7 +135,7 @@ body{
 }
 
 .book-page h3{
-    font-size: 1.5rem;
+    font-size: 1.2rem;
     color: var(--main-color);
     margin: 4px;
 
@@ -242,7 +242,7 @@ body{
 
 .title{
     text-align: center;
-    margin-bottom: .4rem;
+    margin-bottom: .2rem;
 }
 
 .workeduc-box{
@@ -252,7 +252,7 @@ body{
 .workeduc-box .workeduc-content{
     position: relative;
     padding-left: 1.6rem;
-    margin-bottom: 1.2rem;
+    margin-bottom: 1rem;
 
 }
 
